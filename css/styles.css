@@ -1,0 +1,17 @@
+/*******************************TAG SELECTORS*******************************/
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+/*******************************CLASS SELECTORS*******************************/
+
+/*******************************ID SELECTORS*******************************/
+
+#title {
+  background-color: #FF4C68;
+}
