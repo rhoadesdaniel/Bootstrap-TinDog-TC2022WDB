@@ -23,11 +23,20 @@ p {
   line-height: 1.5;
 }
 
+/* Sections */
+
+.color-section {
+  background-color: #FF4C68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
 /* Title Section */
 
 #title {
-  background-color: #FF4C68;
-  color: #fff;
   text-align: left;
 }
 
@@ -109,7 +118,6 @@ p {
 
 #testimonials {
   background-color: #ef8172;
-  color: #fff;
 }
 
 .carousel-item {
@@ -159,15 +167,12 @@ p {
 /* Call to Action Section */
 
 #cta {
-  background-color: #FF4C68;
-  color: #fff;
   padding: 7% 15% 3%;
 }
 
 /* Footer */
 
 #footer {
-  background-color: #fff;
   padding: 7%;
 }
 
